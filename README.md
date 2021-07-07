@@ -1,12 +1,3 @@
-## 统计
-|页面			|路径							|描述					|是否加入统计	|
-|--				|--								|--						|--				|
-|首页			|pages/index/index				|						|Y				|
-|查看品牌咨询页	|pages/list/list				|						|Y				|
-|领取精美礼品页	|pages/giftDetail/giftDetail	|						|Y				|
-|品牌大使刘亚仁	|pages/brandDetail/brandDetail	|						|N				|
-|新秩序系列		|pages/seriesDetail/seriesDetail|						|Y				|
-|H5页			|pages/webView/webView			|由品牌资讯跳转H5文章	|N				|
 # AR.js - Augmented Reality for the Web
 
 <img src="https://github.com/jeromeetienne/AR.js/blob/master/AR.js-1920-1080-HD.png?raw=true" height="200" />
